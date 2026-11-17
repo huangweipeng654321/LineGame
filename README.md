@@ -8,7 +8,7 @@ Draw dynamic lines on a real-time grid to direct water, with 2D collision detect
 
 ## 🛠️ Tech Stack
 Engine: Unity
-Language: Unity visual scripting + C#
+Language: Unity Visual Scripting + C#
 
 ## 🚀 How to Run
 1. Clone the repository.
