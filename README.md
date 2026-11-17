@@ -1,9 +1,9 @@
 # Water Cup
 
-## Background
+## 📖 Background
 A mobile physics puzzle about guiding water into a cup by drawing.
 
-## Functionality
+## 🎮 Functionality
 Draw dynamic lines on a real-time grid to direct water, with 2D collision detection and star-based level progression.
 
 ## 🛠️ Tech Stack
